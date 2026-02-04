@@ -17,7 +17,7 @@ jobs:
         with:
           # --- 基本設定 ---
           token: ${{ secrets.METRICS_TOKEN }}
-          user: boramochi-dev
+          user: botamochi-dev
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Asia/Tokyo
@@ -30,14 +30,14 @@ jobs:
 
           # --- コミットカレンダー  ---
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
           # --- 開発実績  ---
           plugin_lines: yes
 
           # --- コーディング習慣  ---
           plugin_habits: yes
-          plugin_habits_from: 200 # 最近200イベントから解析
-          plugin_habits_days: 14
+          plugin_habits_from: 50
+          plugin_habits_days: 7
           plugin_habits_charts: yes
           
