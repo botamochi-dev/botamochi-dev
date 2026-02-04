@@ -34,10 +34,4 @@ jobs:
 
           # --- 開発実績  ---
           plugin_lines: yes
-
-          # --- コーディング習慣  ---
-          plugin_habits: yes
-          plugin_habits_from: 50
-          plugin_habits_days: 7
-          plugin_habits_charts: yes
           
