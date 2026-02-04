@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: botamochi-dev
           template: classic
-          base: header, activity, repositories
+          base: header, activity
           config_timezone: Asia/Tokyo
           repositories_affiliations: owner, collaborator
           
@@ -41,7 +41,6 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_visibility: public
-
-          # WakaTime
-          plugin_wakatime: yes
+          plugin_activity_days: 14
+          plugin_activity_timestamps: yes
           
