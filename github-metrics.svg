@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="793" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="841" class="">
     <defs>
         <style/>
     </defs>
@@ -34,13 +34,13 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -114,14 +114,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.91470494203168" height="8" fill="#E22837"/>
-                    <rect mask="url(#languages-bar)" x="180.91470494203168" y="0" width="96.70696430729411" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="277.62166924932575" y="0" width="63.803061152166805" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="341.4247304014926" y="0" width="34.26104080397439" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="375.68577120546695" y="0" width="32.34378481681987" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="408.0295560222868" y="0" width="22.071195727828012" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="430.1007517501148" y="0" width="16.845301013636337" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="446.94605276375114" y="0" width="13.053947236248806" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.89459690268305" height="8" fill="#E22837"/>
+                    <rect mask="url(#languages-bar)" x="180.89459690268305" y="0" width="96.6962156650309" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="277.59081256771395" y="0" width="63.84709706201007" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="341.437909629724" y="0" width="34.2572328086164" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="375.6951424383404" y="0" width="32.340189917787264" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="408.0353323561277" y="0" width="22.06874259129437" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="430.1040749474221" y="0" width="16.843428717098973" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="446.94750366452104" y="0" width="13.052496335478937" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -133,7 +133,7 @@
                                 mcfunction
                             </div>
                             <small>
-                                <div>39.33%</div>
+                                <div>39.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -144,7 +144,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>13.87%</div>
+                                <div>13.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -257,7 +257,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.62
+                            Average per day at ~1.61
                         </div>
                     </section>
                 </div>
@@ -1239,6 +1239,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1251,6 +1258,20 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">harsh-bothra/learn365</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Sept 2026, 01:32:14</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
